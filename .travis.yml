@@ -1,3 +1,5 @@
+sudo:
+  true
 env:
   - gitlab_user=root gitlab_password=5iveL!fe gitlab_host=http://localhost:8080
 services:
